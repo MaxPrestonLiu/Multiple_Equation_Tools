@@ -1,5 +1,5 @@
 # Multiple_Equation_Tools
-This is a toolkit containing two tools to calculate solutions of multi-variable functions. Both the two tools in this project deal with
+This is a toolkit containing two tools to calculate solutions of multi-variable functions. Both the two tools in this project deal with linear 
 equations containing arbitrary number of variables; the difference is that in equation_calculator.py, you are allowed to put in a number
 of equations, and you receive the exact value of each variable as long as the number of equations equal to the number of variables, and a
 kind reminder is that here the exact value are fractions, rather than float numbers. While in the un_fixed_equations, you are allowed to 
